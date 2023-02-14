@@ -22,7 +22,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 L.marker([45.52, -122.67]).addTo(map)
-    .bindPopup('fucking shit <br> this is fcuk up.')
+    .bindPopup('Nice work Jorge <br> this work')
     .openPopup();
 
 // original link
@@ -30,4 +30,3 @@ L.marker([45.52, -122.67]).addTo(map)
 
 
 // Anothet link
-// https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw
